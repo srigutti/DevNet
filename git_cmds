@@ -8,3 +8,4 @@ git commit
 git status
 git remote -v/add
 git merge
+git diff
