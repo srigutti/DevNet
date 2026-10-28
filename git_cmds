@@ -7,3 +7,4 @@ git rm -f
 git commit
 git status
 git remote -v/add
+git merge
