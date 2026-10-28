@@ -1,0 +1,9 @@
+git clone
+git push
+git pull
+git init
+git add
+git rm -f
+git commit
+git status
+git remote -v/add
