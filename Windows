@@ -1,6 +1,7 @@
 dir
+cd
 route print
-cls
+cls - clear screen
 mkdir
 rmdir
 netstat
