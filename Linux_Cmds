@@ -1,3 +1,5 @@
+mkdir
+rmdir
 clear
 ls -l
 pwd
