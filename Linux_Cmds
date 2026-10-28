@@ -1,0 +1,6 @@
+clear
+ls -l
+pwd
+cp
+rm -rf
+mv - renames a file and moves file as well.
