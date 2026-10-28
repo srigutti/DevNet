@@ -1,4 +1,5 @@
 dir
+route print
 cls
 mkdir
 rmdir
